@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Seeking a Data Engineer position!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanthackston)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanthackston)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Graduate Student Researcher that performed feature engineering and developed data pipelines on EEG/MEG bio-signals at the Noninvasive BMI lab at University of Houston. Used Python Numpy, Pandas, SciPy, SciKit-Learn, and Tensorflow libraries
 
